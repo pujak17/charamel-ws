@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/plugins" />
+            <option value="$PROJECT_DIR$/plugins/AndroidGui" />
+            <option value="$PROJECT_DIR$/plugins/DriveSimulator" />
+            <option value="$PROJECT_DIR$/plugins/VLCRemoteController" />
+            <option value="$PROJECT_DIR$/plugins/charamel" />
+            <option value="$PROJECT_DIR$/plugins/charamel-ws" />
+            <option value="$PROJECT_DIR$/plugins/decad" />
+            <option value="$PROJECT_DIR$/plugins/emma-user-model" />
+            <option value="$PROJECT_DIR$/plugins/extensionAPI" />
+            <option value="$PROJECT_DIR$/plugins/htmlgui-ws" />
+            <option value="$PROJECT_DIR$/plugins/odp" />
+            <option value="$PROJECT_DIR$/plugins/reeti" />
+            <option value="$PROJECT_DIR$/plugins/sockets" />
+            <option value="$PROJECT_DIR$/plugins/ssi" />
+            <option value="$PROJECT_DIR$/plugins/ssj" />
+            <option value="$PROJECT_DIR$/plugins/studymaster-web" />
+            <option value="$PROJECT_DIR$/plugins/timer" />
+            <option value="$PROJECT_DIR$/plugins/tricatworld" />
+            <option value="$PROJECT_DIR$/plugins/yallah" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
